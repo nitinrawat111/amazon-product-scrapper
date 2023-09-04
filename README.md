@@ -6,3 +6,11 @@ It fetches Product URL,  Product Name, Product Price, Rating, Number of reviews 
 Further, it visits respective page for each product and fetches Additional details.
 
 It is written in Python using Beautiful Soup Library.
+
+# Dependencies
+- Python 3.6+
+- Beautiful Soup Module
+  - You can install Beautiful Soup Module using the following pip command ```pip install beautifulsoup4```
+
+ # Usage
+ Just execute the python file using ```python main.py```
